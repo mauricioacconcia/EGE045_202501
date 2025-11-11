@@ -1,4 +1,4 @@
-# 📘 Repositório de Notebooks – Mineração de Dados e Aprendizado de Máquina
+# 📘 Repositório de Notebooks – EGE045 - IA e Ciência de Dados
 
 Este repositório reúne os notebooks desenvolvidos ao longo da disciplina **IA e Ciência de Dados** do curso de Engenharia Elétrica do Centro Universitário da Fundação Hermínio Ometto. Cada arquivo `.ipynb` contém exemplos práticos, experimentos e explanações teóricas voltadas ao entendimento e aplicação de técnicas de análise de dados, modelagem estatística e inteligência computacional.
 
