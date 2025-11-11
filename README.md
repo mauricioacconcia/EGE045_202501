@@ -4,8 +4,7 @@ Este repositório reúne os notebooks desenvolvidos ao longo da disciplina **IA 
 
 ## 🧭 Ementa da Disciplina
 
-Revisão de conceitos básicos de estatística: população e amostra, histograma, tabulação cruzada, média, mediana, moda, variância, desvio padrão, correlação, distribuição normal, teorema do limite central, erro padrão, estimadores, intervalo de confiança, distribuição t-student e teste de hipótese. Algoritmos genéticos: definição, fluxo básico, representação binária e real, função de avaliação, operadores genéticos.  
-Aprendizado profundo: introdução às redes neurais artificiais, perceptron, redes convolutivas, deep learning, TensorFlow, aplicações e estudos de caso. Mineração de dados: definições, conceitos básicos, fluxo de trabalho, objetivos e exemplos. Ferramentas de Business Intelligence: apresentação, conceitos básicos, definições, relação com a área de mineração de dados, dashboards, visualização de dados, algoritmos e ferramentas para mineração de dados, utilização para solução de problemas reais.
+Revisão de conceitos básicos de estatística: população e amostra, histograma, tabulação cruzada, média, mediana, moda, variância, desvio padrão, correlação, distribuição normal, teorema do limite central, erro padrão, estimadores, intervalo de confiança, distribuição t-student e teste de hipótese. Algoritmos genéticos: definição, fluxo básico, representação binária e real, função de avaliação, operadores genéticos. Aprendizado profundo: introdução às redes neurais artificiais, perceptron, redes convolutivas, deep learning, TensorFlow, aplicações e estudos de caso. Mineração de dados: definições, conceitos básicos, fluxo de trabalho, objetivos e exemplos. Ferramentas de Business Intelligence: apresentação, conceitos básicos, definições, relação com a área de mineração de dados, dashboards, visualização de dados, algoritmos e ferramentas para mineração de dados, utilização para solução de problemas reais.
 
 ## 📂 Estrutura dos Notebooks
 
@@ -28,6 +27,6 @@ Desenvolver competências em **análise e modelagem de dados**, **compreensão d
 
 ## 🧠 Ferramentas e Tecnologias Utilizadas
 
-- **Python 3.x**  
-- **Jupyter Notebook / Google Colab**  
-- **Bibliotecas:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`, `statsmodels`  
+- **Python 3.10** - VErsão corrente do python no google colab na época do desenvolvimento
+- **Google Colab** - Algoritmos testados e executados no google colab  
+- **Algumas Bibliotecas:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`, `statsmodels`  
